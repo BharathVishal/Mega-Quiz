@@ -7,3 +7,6 @@ A quiz application written in C++ that runs on Windows and hosts over hundreds o
 2010
 
 
+##### Programming Language : 
+C++
+
