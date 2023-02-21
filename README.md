@@ -13,8 +13,7 @@ C++
 &nbsp;
 
 ##### Developed by  : 
-G.Bharath Vishal
-P.Harish
+G.Bharath Vishal & P.Harish
 
 &nbsp;
 
