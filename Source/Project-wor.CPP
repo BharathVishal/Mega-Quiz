@@ -325,7 +325,7 @@ clrscr();
 cleardevice();
 setbkcolor(RED);
 n=n+10;
-outtextxy(140,220,"û Good job.Your score is  :    ");
+outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<n;
 getch();
 }
@@ -684,7 +684,7 @@ case 0: setbkcolor(RED);
 		cleardevice();
 		a.x=a.x+10;
 		//setbkcolor(RED);
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 	}
 	else{
@@ -707,7 +707,7 @@ case 1:	clrscr();
 		cleardevice();
 		a.x=a.x+10;
 		setbkcolor(RED);
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 	}
@@ -732,7 +732,7 @@ case 1:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 
@@ -758,7 +758,7 @@ case 3:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 	}
 	else{
@@ -782,7 +782,7 @@ case 4:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 
@@ -808,7 +808,7 @@ case 5:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 	}
@@ -833,7 +833,7 @@ case 6:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 
@@ -860,7 +860,7 @@ case 7:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 	}
 	else{
@@ -885,7 +885,7 @@ case 8:	clrscr();
 
 		setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 	}
 
@@ -910,7 +910,7 @@ case 9:	clrscr();
 	cleardevice();
 	       setbkcolor(RED);
 		a.x=a.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a.x;
 
 
@@ -930,7 +930,7 @@ closegraph();
 //cleardevice;
 }
 }
-void quiz::entertainment()// This Topic was done by HARISH for the first time by the means of copy and paste!!! :( :( :(
+void quiz::entertainment()// This Topic was done by HARISH
 {
    pas a1;
    a1.x=0;
@@ -991,7 +991,7 @@ case 0: setbkcolor(RED);
 		cleardevice();
 		a1.x=a1.x+10;
 		//setbkcolor(RED);
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 	}
 	else{
@@ -1014,7 +1014,7 @@ case 1:	clrscr();
 		cleardevice();
 		a1.x=a1.x+10;
 		setbkcolor(RED);
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 	}
@@ -1039,7 +1039,7 @@ case 1:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 
@@ -1065,7 +1065,7 @@ case 3:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 	}
 	else{
@@ -1089,7 +1089,7 @@ case 4:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 
@@ -1114,7 +1114,7 @@ case 5:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 	}
@@ -1139,7 +1139,7 @@ case 6:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 
@@ -1166,7 +1166,7 @@ case 7:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 	}
 	else{
@@ -1191,7 +1191,7 @@ case 8:	clrscr();
 
 		setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 	}
 
@@ -1216,7 +1216,7 @@ case 9:	clrscr();
 	cleardevice();
 	       setbkcolor(RED);
 		a1.x=a1.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<a1.x;
 
 
@@ -1296,7 +1296,7 @@ case 0: setbkcolor(RED);
 	setbkcolor(RED);
 		cleardevice();
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 	 }
 	else{
@@ -1320,7 +1320,7 @@ case 1:	clrscr();
 	       cleardevice();
 	       setbkcolor(RED);
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 	}
@@ -1345,7 +1345,7 @@ case 1:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 
@@ -1372,7 +1372,7 @@ case 3:	clrscr();
 	setbkcolor(RED);
 
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 	}
@@ -1398,7 +1398,7 @@ case 4:	clrscr();
        cleardevice();
 		       setbkcolor(RED);
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 
@@ -1425,7 +1425,7 @@ case 5:	clrscr();
 
 		setbkcolor(RED);
 	b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 	}
 	else{
@@ -1450,7 +1450,7 @@ case 6:	clrscr();
 	cleardevice();
 		 setbkcolor(RED);
 		b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 	}
@@ -1477,7 +1477,7 @@ case 7:	clrscr();
 
 			setbkcolor(RED);
 			b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 	cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 	}
 	else{
@@ -1503,7 +1503,7 @@ case 8:	clrscr();
 
 
 	b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 	}
 
@@ -1529,7 +1529,7 @@ case 9:	clrscr();
 	setbkcolor(RED);
 
 		b.x=b.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<b.x;
 
 	}
@@ -1612,7 +1612,7 @@ case 0: clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		c.x=c.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 	 }
@@ -1636,7 +1636,7 @@ case 1:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		c.x=c.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 
@@ -1662,7 +1662,7 @@ case 1:	clrscr();
 	 cleardevice();
 	 setbkcolor(RED);
 		c.x=c.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 
@@ -1689,7 +1689,7 @@ case 3:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		c.x=c.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 
@@ -1716,7 +1716,7 @@ case 4:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		c.x=c.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 
@@ -1743,7 +1743,7 @@ case 5:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		c.x=c.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<c.x;
 
 	}
@@ -1828,7 +1828,7 @@ case 0: clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		d.x=d.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 	 }
@@ -1852,7 +1852,7 @@ case 1:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		d.x=d.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 
@@ -1878,7 +1878,7 @@ case 1:	clrscr();
 	       cleardevice();
 	       setbkcolor(RED);
 		d.x=d.x+20;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 
@@ -1905,7 +1905,7 @@ case 3:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		d.x=d.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 
@@ -1932,7 +1932,7 @@ case 4:	clrscr();
 	cleardevice();
 		setbkcolor(RED);
 		d.x=d.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 
@@ -1958,7 +1958,7 @@ case 5:	clrscr();
 		cleardevice();
 		setbkcolor(RED);
 		d.x=d.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 
@@ -1986,7 +1986,7 @@ case 6:	clrscr();
 	cleardevice();
 	     setbkcolor(RED);
 		d.x=d.x+10;
-		outtextxy(140,220,"û Good job.Your score is  :    ");
+		outtextxy(140,220,"Ã» Good job.Your score is  :    ");
 		cout<<"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\t\t:  "<<d.x;
 
 	}
