@@ -10,3 +10,15 @@ A quiz application written in C++ that runs on Windows and hosts over hundreds o
 ##### Programming Language : 
 C++
 
+##### Developed by  : 
+G.Bharath Vishal
+P.Harish
+
+#### License :
+[MIT License](https://github.com/BharathVishal/Mega-Quiz/blob/master/LICENSE)
+&nbsp;
+
+
+© 2010-2023.
+
+
